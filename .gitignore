@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Game directory whitelist
+!*Elite Dangerous/
+
+#
+!*COPYING
+!*README
+!*.gitignore
+
