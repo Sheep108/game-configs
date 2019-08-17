@@ -1,0 +1,4 @@
+#Ingore important things
+*.git
+*.gitignore_old
+*.gitignore
