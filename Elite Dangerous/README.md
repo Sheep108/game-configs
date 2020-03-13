@@ -1,8 +1,8 @@
-## Custom controller Config for Elite Dangerous, created with urgonomics, simplicity and functionality at heart.
+### Custom controller Config for Elite Dangerous, created with urgonomics, simplicity and functionality at heart.
 The in game default lacks basic functionality and is not urgonomic
 
 
-# How to use:
+## How to use:
 
 Copy `Sheep108_Config.binds` to:
 
